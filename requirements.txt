@@ -1,0 +1,13 @@
+streamlit
+openai
+chromadb
+sentence-transformers
+pypdf
+python-docx
+rank-bm25
+requests
+beautifulsoup4
+numpy
+pillow
+pypdfium2
+rapidocr-onnxruntime
